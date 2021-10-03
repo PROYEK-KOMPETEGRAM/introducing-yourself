@@ -1,7 +1,7 @@
-#### nama: [KOMPETEGRAM](https://github.com/PROYEK-KOMPETEGRAM)
-- Program Studi: Isi dengan Program Studi
-- GitHub: [KOMPETEGRAM](https://github.com/PROYEK-KOMPETEGRAM)
+## Contributors
 
-#### nama: [Naufal Fawwaz Andriawan](https://github.com/andriawan24)
-- Program Studi: Rekayasa Perangkat Lunak
-- GitHub: [andriawan24](https://github.com/andriawan24)
+Berikut beberapa orang yang telah ikut berkonstribusi:
+
+| Nama | Program Studi | Angkatan | Link Github
+| --- | --- | --- | --- |
+| Naufal Fawwaz Andriawan | Rekayasa Perangkat Lunak | 2020 | [andriawan24](https://github.com/andriawan24) |
