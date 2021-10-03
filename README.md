@@ -30,6 +30,7 @@ Tambahkan file pemrograman yang dapat mengeluarkan nama teman-teman (bahasa apap
 ``` python
 print('Nama Lengkap')
 ```
+Kemudian simpan file tersebut dengan format `nama.ekstensi` misalnya `KOMPETEGRAM.py`
 
 ### 2) Memasukan nama ke list
 Tambahkan identitas pada file `CONTRIBUTORS.md` dengan spesifikasi berikut :
