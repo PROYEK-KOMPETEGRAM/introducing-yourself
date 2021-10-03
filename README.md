@@ -33,11 +33,9 @@ print('Nama Lengkap')
 Kemudian simpan file tersebut dengan format `nama.ekstensi` misalnya `KOMPETEGRAM.py`
 
 ### 2) Memasukan nama ke list
-Tambahkan identitas pada file `CONTRIBUTORS.md` dengan spesifikasi berikut :
+Tambahkan identitas pada tabel yang tersedia di file `CONTRIBUTORS.md` dengan spesifikasi berikut :
 ``` markdown
-#### nama: [Nama Lengkap](Link GitHub)
-- Program Studi: Ubah dengan program studi teman-teman
-- GitHub: [Nama Akun Github](Link GitHub)
+| Nama | Program Studi | Tahun Angkatan | [Nama Akun Github](Link Github) |
 ```
 ---
 
