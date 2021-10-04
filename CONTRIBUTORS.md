@@ -9,4 +9,5 @@ Berikut beberapa orang yang telah ikut berkonstribusi:
 | Ade Fitra Anggraini | Teknik Sipil | 2018 | [eepnasibungkos](https://github.com/eepnasibungkos) |
 | Faiz Nurullah | IPA | 2022 | [Faiznurullah](https://github.com/faiznurullah)|
 | Ikhsan | RPL | 2020 | [ikhsan34](https://github.com/ikhsan34) |
+| Rivaldi Agustinus Nugraha Siringoringo | Rekayasa Perangkat Lunak | 2020 | [ValdiANS](https://github.com/ValdiANS) |
 
