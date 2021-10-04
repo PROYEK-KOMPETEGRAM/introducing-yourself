@@ -10,4 +10,5 @@ Berikut beberapa orang yang telah ikut berkonstribusi:
 | Faiz Nurullah | IPA | 2022 | [Faiznurullah](https://github.com/faiznurullah)|
 | Ikhsan | RPL | 2020 | [ikhsan34](https://github.com/ikhsan34) |
 | Rivaldi Agustinus Nugraha Siringoringo | Rekayasa Perangkat Lunak | 2020 | [ValdiANS](https://github.com/ValdiANS) |
+| Raden Surya M.P | RPL | 2020 | [Gre-ys](https://github.com/Gre-ys) |
 
