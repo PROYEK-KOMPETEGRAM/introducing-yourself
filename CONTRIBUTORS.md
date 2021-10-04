@@ -1,6 +1,6 @@
 ## Contributors
 
-Berikut beberapa orang yang telah ikut berkonstribusi:
+Berikut beberapa orang yang telah ikut berkontribusi:
 
 | Nama | Program Studi | Angkatan | Link Github
 | --- | --- | --- | --- |
