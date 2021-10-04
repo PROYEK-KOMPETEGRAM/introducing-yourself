@@ -12,4 +12,5 @@ Berikut beberapa orang yang telah ikut berkonstribusi:
 | Rivaldi Agustinus Nugraha Siringoringo | Rekayasa Perangkat Lunak | 2020 | [ValdiANS](https://github.com/ValdiANS) |
 | Raden Surya M.P | RPL | 2020 | [Gre-ys](https://github.com/Gre-ys) |
 | Fajar M Al-Hijri | Rekayasa Perangkat Lunak | 2019 | [fajarmuhamad616](https://github.com/fajarmuhamad616) |
+| Vitria Widiasari| TKJ | 2020 | [vitriawidiasari](https://github.com/vitriawidiasari) |
 
