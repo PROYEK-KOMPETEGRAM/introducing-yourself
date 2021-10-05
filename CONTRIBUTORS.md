@@ -18,6 +18,7 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | Rayhan Hidayat | Rekayasa Perangkat Lunak | 2020 | [Rayhan](https://github.com/rayhan212) |
 | Fawwaz Abdul Ghani | TKJ | 2022 | [Ghani280706](https://github.com/Ghani280706) |
 | Afrizal Setya Pamuji | Teknik Informatika | 2021 | [cuingskot76](https://github.com/cuingskot76) |
+| Muhamad Fadil | Rekayasa Perangkat Lunak | 2021 | [fadilmuh22](https://github.com/fadilmuh22) |
 
 
 
