@@ -15,3 +15,5 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | Vitria Widiasari| TKJ | 2020 | [vitriawidiasari](https://github.com/vitriawidiasari) |
 | Fikri Cahya Muharram | Administrasi Pendidikan | 2019 | [fikricm25](https://github.com/fikricm25) |
 | Syifa Fatmawati | Matematika | 2021 | [syifafatma](https://github.com/syifafatma) |
+| Rayhan Hidayat | Rekayasa Perangkat Lunak | 2020 | [Rayhan](https://github.com/rayhan212) |
+
