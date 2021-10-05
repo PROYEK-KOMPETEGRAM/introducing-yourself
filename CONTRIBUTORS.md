@@ -16,4 +16,6 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | Fikri Cahya Muharram | Administrasi Pendidikan | 2019 | [fikricm25](https://github.com/fikricm25) |
 | Syifa Fatmawati | Matematika | 2021 | [syifafatma](https://github.com/syifafatma) |
 | Rayhan Hidayat | Rekayasa Perangkat Lunak | 2020 | [Rayhan](https://github.com/rayhan212) |
+| Fawwaz Abdul Ghani | TKJ | 2022 | [Ghani280706](https://github.com/Ghani280706) |
+
 
