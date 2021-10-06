@@ -20,5 +20,5 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | Afrizal Setya Pamuji | Teknik Informatika | 2021 | [cuingskot76](https://github.com/cuingskot76) |
 | Muhamad Fadil | Rekayasa Perangkat Lunak | 2021 | [fadilmuh22](https://github.com/fadilmuh22) |
 | Mochamad Wilka Asyidiqi | Fisika | 2019 | [wilka99](https://github.com/wilka99) |
-
+| Muhamad Talim | Rekayasa Perangkat Lunak | 2021 | [ta-lim](https://github.com/ta-lim) |
 
