@@ -22,5 +22,6 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | Mochamad Wilka Asyidiqi | Fisika | 2019 | [wilka99](https://github.com/wilka99) |
 | Anselmus R | Informatika | 2018 | [anselmusr](https://github.com/anselmusr) |
 | Muhamad Talim | Rekayasa Perangkat Lunak | 2021 | [ta-lim](https://github.com/ta-lim) |
+| Yoga Firdaus P | Teknologi Informasi | 2019 | [Yusakha](https://github.com/Yusakha) |
 
 
