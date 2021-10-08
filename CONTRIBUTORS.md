@@ -25,4 +25,6 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | Rahul Pandika | Informatika | 2021 | [rahulpandika](https://github.com/rahulpandika) |
 | Bryan Pratama Putra | Teknologi Informasi | 2019 | [bryanpratama](https://github.com/bryanpratama) |
 | Muhammad Erlangga | Teknik Informatika | 2021 | [muhammaderlangga99](https://github.com/muhammaderlangga99) |
+| Reymunda | Teknik Informatika | 2020 | [reymunda](https://github.com/reymunda) |
+
 
