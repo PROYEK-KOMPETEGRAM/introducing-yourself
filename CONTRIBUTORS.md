@@ -23,6 +23,7 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | Anselmus R | Informatika | 2018 | [anselmusr](https://github.com/anselmusr) |
 | Muhamad Talim | Rekayasa Perangkat Lunak | 2021 | [ta-lim](https://github.com/ta-lim) |
 | Rahul Pandika | Informatika | 2021 | [rahulpandika](https://github.com/rahulpandika) |
+| Bryan Pratama Putra | Teknologi Informasi | 2019 | [bryanpratama](https://github.com/bryanpratama) |
 
 
 
