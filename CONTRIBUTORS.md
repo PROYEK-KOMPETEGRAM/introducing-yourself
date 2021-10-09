@@ -26,5 +26,6 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | Bryan Pratama Putra | Teknologi Informasi | 2019 | [bryanpratama](https://github.com/bryanpratama) |
 | Muhammad Erlangga | Teknik Informatika | 2021 | [muhammaderlangga99](https://github.com/muhammaderlangga99) |
 | Reymunda | Teknik Informatika | 2020 | [reymunda](https://github.com/reymunda) |
+| E Salim | Teknik Elektro | 2020 | [Salimaja](https://github.com/Salimaja) |
 
 
