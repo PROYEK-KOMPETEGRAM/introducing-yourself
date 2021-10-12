@@ -28,5 +28,5 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | Reymunda | Teknik Informatika | 2020 | [reymunda](https://github.com/reymunda) |
 | E Salim | Teknik Elektro | 2020 | [Salimaja](https://github.com/Salimaja) |
 | Farras El-Fahd | Ilmu Komputer | 2019 |  [farraselfahd](https://github.com/farraselfahd) |
-
+| Yusuf Eko Anggoro | Teknik Informatika | 2020 | [yusufekoanggoro](https://github.com/yusufekoanggoro) |
 
