@@ -30,5 +30,6 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | Farras El-Fahd | Ilmu Komputer | 2019 |  [farraselfahd](https://github.com/farraselfahd) |
 | Yusuf Eko Anggoro | Teknik Informatika | 2020 | [yusufekoanggoro](https://github.com/yusufekoanggoro) |
 | M Hasin Ilmalik | Teknik Informatika | 2014 | [hasinilmalik](https://github.com/hasinilmalik) |
+| Aisy Al Fawwaz | Teknik Biomedis | 2020 | [ceritaq](https://https://github.com/ceritaq) |
 
 
