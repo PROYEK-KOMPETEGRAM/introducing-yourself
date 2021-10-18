@@ -32,5 +32,7 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | M Hasin Ilmalik | Teknik Informatika | 2014 | [hasinilmalik](https://github.com/hasinilmalik) |
 | Aisy Al Fawwaz | Teknik Biomedis | 2020 | [ceritaq](https://https://github.com/ceritaq) |
 | Nadya milona | Teknik Informatika | 2013 | [nadyamilona](https://github.com/nadyamilona) |
+| yunus | Teknik Informatika | 2016 | [yunuswidodo](https://github.com/yunuswidodo) |
+
 
 
