@@ -34,5 +34,6 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | Nadya milona | Teknik Informatika | 2013 | [nadyamilona](https://github.com/nadyamilona) |
 | yunus | Teknik Informatika | 2016 | [yunuswidodo](https://github.com/yunuswidodo) |
 | Alim | Elektro | 2021 | [Alimaja}(https://github.com/Alimaja)
+| Yoel Nainggolan | Rekayasa Perangkat Lunak | 2021 | [yoelngl](https://github.com/yoelngl) |
 
 
