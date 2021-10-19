@@ -33,6 +33,6 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | Aisy Al Fawwaz | Teknik Biomedis | 2020 | [ceritaq](https://https://github.com/ceritaq) |
 | Nadya milona | Teknik Informatika | 2013 | [nadyamilona](https://github.com/nadyamilona) |
 | yunus | Teknik Informatika | 2016 | [yunuswidodo](https://github.com/yunuswidodo) |
-
+| Alim | Elektro | 2021 | [Alimaja}(https://github.com/Alimaja)
 
 
