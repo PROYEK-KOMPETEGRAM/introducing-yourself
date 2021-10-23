@@ -36,4 +36,4 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | Alim | Elektro | 2021 | [Alimaja}(https://github.com/Alimaja)
 | Yoel Nainggolan | Rekayasa Perangkat Lunak | 2021 | [yoelngl](https://github.com/yoelngl) |
 | Sandi Faisal Ferdiansyah | Rekayasa Perangkat Lunak | 2020 | [sndff](https://github.com/sndff) |
-
+| whoisraa | Teknik Informatika | 2021 | [whoisraa](https://github.com/whoisraa) |
