@@ -38,3 +38,4 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | Sandi Faisal Ferdiansyah | Rekayasa Perangkat Lunak | 2020 | [sndff](https://github.com/sndff) |
 | whoisraa | Teknik Informatika | 2021 | [whoisraa](https://github.com/whoisraa) |
 | Ibnu Dzumirrotin | IPA | 2022 | [ibnudz](https://github.com/ibnudz) |
+| Aderio Rendy H | Sistem Informasi | 2021 | [ader10](https://github.com/ader10) |
