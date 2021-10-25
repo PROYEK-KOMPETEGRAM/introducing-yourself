@@ -40,4 +40,5 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | Ibnu Dzumirrotin | IPA | 2022 | [ibnudz](https://github.com/ibnudz) |
 | Aderio Rendy H | Sistem Informasi | 2021 | [ader10](https://github.com/ader10) |
 | Syariful | Informatika | 2019 | [SyarifulMsth](https://github.com/SyarifulMsth) |
+| Pahrurozi | Ilmu Komputer | 2019 | [pahrurozidev](https://github.com/pahrurozidev) |
 
