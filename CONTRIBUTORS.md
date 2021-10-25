@@ -33,9 +33,11 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | Aisy Al Fawwaz | Teknik Biomedis | 2020 | [ceritaq](https://https://github.com/ceritaq) |
 | Nadya milona | Teknik Informatika | 2013 | [nadyamilona](https://github.com/nadyamilona) |
 | yunus | Teknik Informatika | 2016 | [yunuswidodo](https://github.com/yunuswidodo) |
-| Alim | Elektro | 2021 | [Alimaja}(https://github.com/Alimaja)
+| Alim | Elektro | 2021 | [Alimaja](https://github.com/Alimaja)
 | Yoel Nainggolan | Rekayasa Perangkat Lunak | 2021 | [yoelngl](https://github.com/yoelngl) |
 | Sandi Faisal Ferdiansyah | Rekayasa Perangkat Lunak | 2020 | [sndff](https://github.com/sndff) |
 | whoisraa | Teknik Informatika | 2021 | [whoisraa](https://github.com/whoisraa) |
 | Ibnu Dzumirrotin | IPA | 2022 | [ibnudz](https://github.com/ibnudz) |
 | Aderio Rendy H | Sistem Informasi | 2021 | [ader10](https://github.com/ader10) |
+| Syariful | Informatika | 2019 | [SyarifulMsth](https://github.com/SyarifulMsth) |
+
