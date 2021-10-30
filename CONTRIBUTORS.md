@@ -41,4 +41,4 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | Aderio Rendy H | Sistem Informasi | 2021 | [ader10](https://github.com/ader10) |
 | Syariful | Informatika | 2019 | [SyarifulMsth](https://github.com/SyarifulMsth) |
 | Pahrurozi | Ilmu Komputer | 2019 | [pahrurozidev](https://github.com/pahrurozidev) |
-
+| Farens Fernanda | Teknik Informatika | 2019 | [farens27](https://github.com/farens27) |
