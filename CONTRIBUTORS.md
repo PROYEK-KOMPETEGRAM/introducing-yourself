@@ -43,5 +43,6 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | Pahrurozi | Ilmu Komputer | 2019 | [pahrurozidev](https://github.com/pahrurozidev) |
 | Farens Fernanda | Teknik Informatika | 2019 | [farens27](https://github.com/farens27) |
 | Gilang Aditya Purnama Sidhi | Sistem Informasi | 2019 | [gilangaditya](https://github.com/gilangaditya) |
+| Salman Abdul Jabbaar Wiharja | Teknik Komputer | 2020 | [Salmansha08](https://github.com/Salmansha08) |
 
 
