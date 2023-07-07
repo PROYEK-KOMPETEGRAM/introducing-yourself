@@ -45,3 +45,4 @@ Berikut beberapa orang yang telah ikut berkontribusi:
 | Gilang Aditya Purnama Sidhi | Sistem Informasi | 2019 | [gilangaditya](https://github.com/gilangaditya) |
 | Salman Abdul Jabbaar Wiharja | Teknik Komputer | 2020 | [Salmansha08](https://github.com/Salmansha08) |
 | Fany Muhammad Fahmi K. | Teknik Komputer | 2020 | [KNobHack](https://github.com/KNobHack) |
+| Muhammad Salam Pararta S | Teknik Komputer | 2022 | [senzawag](https://github.com/SenzawaG)
